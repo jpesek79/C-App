@@ -1,0 +1,15 @@
+W:\school\cSharp\C8\SalesPerformaceTwo\SalesPerformaceTwo\bin\Debug\SalesPerformaceTwo.exe.config
+W:\school\cSharp\C8\SalesPerformaceTwo\SalesPerformaceTwo\obj\Debug\SalesPerformaceTwo.csprojResolveAssemblyReference.cache
+W:\school\cSharp\C8\SalesPerformaceTwo\SalesPerformaceTwo\bin\Debug\SalesPerformaceTwo.exe
+W:\school\cSharp\C8\SalesPerformaceTwo\SalesPerformaceTwo\bin\Debug\SalesPerformaceTwo.pdb
+W:\school\cSharp\C8\SalesPerformaceTwo\SalesPerformaceTwo\obj\Debug\SalesPerformaceTwo.exe
+W:\school\cSharp\C8\SalesPerformaceTwo\SalesPerformaceTwo\obj\Debug\SalesPerformaceTwo.pdb
+E:\school\cSharp\C8\SalesPerformaceTwo\SalesPerformaceTwo\bin\Debug\SalesPerformaceTwo.exe.config
+E:\school\cSharp\C8\SalesPerformaceTwo\SalesPerformaceTwo\obj\Debug\SalesPerformaceTwo.exe
+E:\school\cSharp\C8\SalesPerformaceTwo\SalesPerformaceTwo\obj\Debug\SalesPerformaceTwo.pdb
+E:\school\cSharp\C8\SalesPerformaceTwo\SalesPerformaceTwo\bin\Debug\SalesPerformaceTwo.exe
+E:\school\cSharp\C8\SalesPerformaceTwo\SalesPerformaceTwo\bin\Debug\SalesPerformaceTwo.pdb
+E:\school\cSharp\C8\SalesPerformaceTwo\SalesPerformaceTwo\obj\Debug\SalesPerformaceTwo.csprojResolveAssemblyReference.cache
+W:\school\cSharp\C8\Pesek_Chap_8\SalesPerformaceTwo\SalesPerformaceTwo\bin\Debug\SalesPerformaceTwo.exe.config
+W:\school\cSharp\C8\Pesek_Chap_8\SalesPerformaceTwo\SalesPerformaceTwo\obj\Debug\SalesPerformaceTwo.exe
+W:\school\cSharp\C8\Pesek_Chap_8\SalesPerformaceTwo\SalesPerformaceTwo\obj\Debug\SalesPerformaceTwo.pdb
